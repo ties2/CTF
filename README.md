@@ -26,6 +26,7 @@ A challenge that takes 10 hours to solve, takes 10 minutes to explain :)
 
 # Pentesting
 **[HackTheBox](https://affiliate.hackthebox.com/cryptocat-htb)**<br>
+***([My Note of HackTheBox](https://github.com/ties2/CTF/wiki/HackTheBox))***<br>
 **[TryHackMe](https://tryhackme.com)**<br>
 **[OffSec Proving Grounds](https://www.offensive-security.com/labs)**<br>
 **[Web Security Academy](https://portswigger.net/web-security)**<br>
